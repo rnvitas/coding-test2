@@ -12,4 +12,9 @@ function nilaiArray(arr) {
 }
 
 const number = [1, 2, 3, 5, 7];
+const number_2 = [10, 20, 3, 2, 1];
+const number_3 = [100];
+
 console.log(nilaiArray(number));
+console.log(nilaiArray(number_2));
+console.log(nilaiArray(number_3));
